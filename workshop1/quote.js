@@ -4,8 +4,8 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture", "Swimming","Gender is Buring"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect", "Soilder","j. Butler"]
+var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture", "Swimming", "Gender is Buring"];
+var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect", "Soilder", "j. Butler"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor","Strength"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
